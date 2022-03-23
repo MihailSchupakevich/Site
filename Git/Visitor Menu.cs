@@ -24,8 +24,9 @@ namespace Git
 
         private void button5_Click(object sender, EventArgs e)
         {
-            Form BackForm = Form1 Form();
             this.Close();
+            Form1 frm = new Form1();
+            frm.Show();
 
         }
     }

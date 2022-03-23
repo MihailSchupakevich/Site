@@ -10,3 +10,15 @@ C:\Users\Borba\source\repos\Git\Git\obj\Debug\Git.csproj.GenerateResource.cache
 C:\Users\Borba\source\repos\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
 C:\Users\Borba\source\repos\Git\Git\obj\Debug\Git.exe
 C:\Users\Borba\source\repos\Git\Git\obj\Debug\Git.pdb
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.csproj.SuggestedBindingRedirects.cache
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.Form1.resources
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.Properties.Resources.resources
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.Visitor_Menu.resources
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.csproj.GenerateResource.cache
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.exe
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.pdb
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\bin\Debug\Git.exe.config
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\bin\Debug\Git.exe
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\bin\Debug\Git.pdb

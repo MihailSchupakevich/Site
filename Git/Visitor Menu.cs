@@ -29,5 +29,11 @@ namespace Git
             frm.Show();
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form TeamsForm = new Teams_Main();
+            TeamsForm.Show();
+        }
     }
 }

@@ -22,3 +22,5 @@ C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.pdb
 C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\bin\Debug\Git.exe.config
 C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\bin\Debug\Git.exe
 C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\bin\Debug\Git.pdb
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.Teams_Main.resources
+C:\Users\Borba\OneDrive\Рабочий стол\Site\Git\obj\Debug\Git.Team_Detail.resources
